@@ -3,3 +3,5 @@
 Классификация документов методом опорных векторов - https://habrahabr.ru/post/130278/
 
 Классификация текстов (студенческий дипломчик с правильными словами) - www.machinelearning.ru/wiki/images/a/a9/Rysmyatova_report.pdf
+
+Word2Vec - https://habrahabr.ru/post/249215/
