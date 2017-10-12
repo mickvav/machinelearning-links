@@ -7,3 +7,5 @@
 Word2Vec - https://habrahabr.ru/post/249215/
 
 Классификация текстов через word2vec - https://habrahabr.ru/post/277563/
+
+Стемминг - выкидывание падежей и т.п. - http://www.nltk.org/api/nltk.stem.html
